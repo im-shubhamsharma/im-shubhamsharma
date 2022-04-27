@@ -1,11 +1,10 @@
-# Hi I'm Shubham! 👋 I'm a Frontend Developer.
+# Hi I'm Shubham! 👋
 
 
-
+<!-- 
 ![GitHub Dark](https://github.com/shubh6396/shubh6396/blob/main/assets/banner%20dark.jpg#gh-dark-mode-only)
-![GitHub Light](https://github.com/shubh6396/shubh6396/blob/main/assets/banner%20white.jpg#gh-light-mode-only)
+![GitHub Light](https://github.com/shubh6396/shubh6396/blob/main/assets/banner%20white.jpg#gh-light-mode-only) -->
 
-## 🌱 I’m currently learning ReactJS & Data Science and Algorithm
 
 ### Languages and Tools:
 <p align="left">
