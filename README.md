@@ -11,11 +11,11 @@
 :evergreen_tree: &nbsp; I use Linux (Ubuntu) as my daily drive and Windows 11 for games mostly. <br />
 </p>&nbsp;
 
-<img align="right" width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=im-shubhamsharma&theme=radical&layout=compact&langs_count=8&hide_border=true&align=right" alt="im-shubhamsharma" />
+<img align="right" width="250" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=im-shubhamsharma&theme=radical&layout=compact&langs_count=8&hide_border=true&align=right" alt="im-shubhamsharma" />
 
 <p>
   <h2> :toolbox: &nbsp; Languages and Tools </h2>
-<img align="left"   src="https://github.com/im-shubhamsharma/im-shubhamsharma/blob/main/assets/Screenshot%20from%202022-08-24%2021-07-33.png" width="650">
+<img align="left"   src="https://github.com/im-shubhamsharma/im-shubhamsharma/blob/main/assets/Screenshot%20from%202022-08-24%2021-07-33.png" width="550">
 </p>
 
 
