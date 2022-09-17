@@ -13,9 +13,20 @@
 
 <img align="right" width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=im-shubhamsharma&theme=radical&layout=compact&langs_count=8&hide_border=true&align=right" alt="im-shubhamsharma" />
 
-<p>
+<p align="left" width:"100%">
   <h2> :toolbox: &nbsp; Languages and Tools </h2>
-<img align="left"   src="https://github.com/im-shubhamsharma/im-shubhamsharma/blob/main/assets/Screenshot%20from%202022-08-24%2021-07-33.png" width="500">
+  <p width:"100%">
+  <img src="./Assets/react.svg"/>
+  <img src="./Assets/redux.svg"/>
+  <img src="./Assets/material.svg"/>
+  <img src="./Assets/js.svg"/>
+  <img src="./Assets/java.svg"/>
+  <img src="./Assets/html.svg"/>
+  <img src="./Assets/css.svg"/>
+  <img src="./Assets/sass.svg"/>
+  <img src="./Assets/git.svg"/>
+  <img src="./Assets/github.svg"/>
+  </p>
 </p>
 
 
