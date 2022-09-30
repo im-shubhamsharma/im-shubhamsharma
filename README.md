@@ -4,7 +4,7 @@
  
 <h3> :technologist: &nbsp; About me </h3>
 
- <p align="left" width="50" height="220"> :deciduous_tree: &nbsp;  I am a self-taught Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br />
+ <p align="left" width="50" height="220"> :deciduous_tree: &nbsp;  I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br />
 :four_leaf_clover: &nbsp; I love working with React and Javascript.<br />
 :palm_tree: &nbsp; I am passionate about Web Dev & I enjoy learning new things.<br />
 :seedling: &nbsp; I'm currently learning DSA, Web Development, and anything that interests me. <br />
