@@ -2,7 +2,11 @@
 
 <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Shubham! </h2>
  
+ Welcome to my github repo where I upload every single line of code which I have learning constantly. 
+ 
 <h3> :technologist: &nbsp; About me </h3>
+
+ 
 
  <p align="left" width="50" height="220"> :deciduous_tree: &nbsp;  I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br />
 :four_leaf_clover: &nbsp; I love working with React and Javascript.<br />
