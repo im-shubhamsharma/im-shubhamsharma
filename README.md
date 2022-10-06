@@ -44,7 +44,7 @@
 			<img src="./Assets/github.svg" width="35"/>
 		</td>
    	<td>
-			<img src="https://styled-components.com/atom.png" width="35"/>
+			<img src="https://styled-components.com/atom.png" width="25"/>
 		</td>
   
   
