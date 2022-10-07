@@ -14,7 +14,7 @@
 <table align="left" >
 	<tr align="center">
 		<td >
-			<img src="./Assets/react.svg" width="35"/>
+			<img src="https://raw.githubusercontent.com/im-shubhamsharma/im-shubhamsharma/7bfb4c3802a74e4b8a2cff34b3433210eb0ce573/Assets/react.svg" width="35"/>
 		</td>
 		<td >
 			<img src="./Assets/redux.svg" width="35"/>
