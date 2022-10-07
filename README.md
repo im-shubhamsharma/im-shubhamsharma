@@ -4,9 +4,9 @@
  
 <h3> :technologist: &nbsp; About me </h3>
 
-<p align="left" width="50" height="220"> :deciduous_tree: &nbsp;  I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br />
-:palm_tree: &nbsp; I am passionate about Web Dev & I enjoy learning new things.<br />
-:seedling: &nbsp; I'm currently learning DSA, Web Development, and anything that interests me. <br />
+<p align="left" width="50" height="220"> :deciduous_tree: &nbsp; Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br />
+:palm_tree: &nbsp; Passionate about Web Dev & enjoys learning new things.<br />
+:seedling: &nbsp; Currently learning DSA, Web Development, and anything that interests me. <br />
 :evergreen_tree: &nbsp; I use Linux (Pop OS) as my daily drive and Windows 11 for games mostly. <br />
 </p>
 
