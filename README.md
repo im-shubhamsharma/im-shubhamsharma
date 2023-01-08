@@ -5,10 +5,10 @@
 </p>
 
 </br>
-<h3> :toolbox: &nbsp; Languages and Tools </h3>
+<h2 align="center"> :toolbox: &nbsp; Languages and Tools </h2>
 
-<h4> :rocket: &nbsp; Languages </h4>
-<table align="left" >
+<h4 align="center"> :rocket: &nbsp; Languages </h4>
+<table align="center" >
 	<tr align="center">	
 		<td >
 			<img src="./Assets/js.svg" width="35"/>
@@ -35,13 +35,8 @@
   </tr>
 </table>
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-<h4 width="100%">:small_airplane: &nbsp; Libraries & Framework</h4>
-<table align="left" >
+<h4 width="100%" align="center">:small_airplane: &nbsp; Libraries & Framework</h4>
+<table align="center" >
 	<tr align="center">
 		<td >
 			<img src="./Assets/react.svg" width="35"/>
@@ -72,13 +67,8 @@
      </tr>
 </table>
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-<h4 width="100%">:seat: &nbsp; Tools & Platform</h4>
-<table align="left" >
+<h4 width="100%" align="center">:seat: &nbsp; Tools & Platform</h4>
+<table align="center" >
 	<tr align="center">
 		<td>
 			<img src="./Assets/vscode.svg" width="35"/>
@@ -107,25 +97,22 @@
 </table>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
- <h3>🔥  Github Stats</h3>
+ <h2 align="center">🔥  Github Stats</h2>
  <a href="https://github.com/im-shubhamsharma"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=im-shubhamsharma&layout=compact&theme=radical&title_color=ff3068"></a>  &nbsp; &nbsp;
   <a href="https://github.com/im-shubhamsharma"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=im-shubhamsharma&layout=compact&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
   
-  <br/>
-  <br/>
- <h3>🔝 Most used languages</h3>
+<!--  <h3>🔝 Most used languages</h3>
 <p align="left">
 	<a href="https://github.com/im-shubhamsharma"><img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shubhamsharma&layout=compact&theme=radical&title_color=ff3068" /></a>
-</p>
+</p> -->
 
 <br/>
-<h3>📫 &nbsp; How to reach me:</h3>
+<br/>
+<h3 align="center">📫 &nbsp; How to reach me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/im-shubhamsharma"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:im.shubhamsharma002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+</p>
 
 
