@@ -1,6 +1,10 @@
-<h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Shubham! &nbsp;</h2>
- <h4> :deciduous_tree: &nbsp; Fontend developer from India. I'm a passionate learner who's always willing to learn and work across technologies and domains. </h4>
+<h2 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Shubham! &nbsp;</h2>
+ <p align="center">
+    <h3 align="center"> - Fontend Web Developer from INDIA - </h3>
+    <h3 align="center"> I'm a passionate learner who's always willing to learn and work across technologies and domains.</h3>
+</p>
 
+</br>
 <h3> :toolbox: &nbsp; Languages and Tools </h3>
 
 <h4> :rocket: &nbsp; Languages </h4>
