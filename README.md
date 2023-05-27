@@ -1,7 +1,7 @@
 <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Shubham! &nbsp;</h2>
  <p>
-    <h3> Fontend Software Engineer from INDIA </h3>
-    <h3> I'm a passionate learner who's always willing to learn and work across technologies and domains.</h3>
+    <h4> Fontend Software Engineer from INDIA </h4>
+    <h4> I'm a passionate learner who's always willing to learn and work across technologies and domains.</h4>
 </p>
 
 <!-- </br> -->
