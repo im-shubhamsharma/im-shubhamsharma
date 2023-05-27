@@ -1,15 +1,15 @@
-<h2 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Shubham! &nbsp;</h2>
- <p align="center">
-    <h3 align="center"> - Fontend Web Developer from INDIA - </h3>
-    <h3 align="center"> I'm a passionate learner who's always willing to learn and work across technologies and domains.</h3>
+<h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Shubham! &nbsp;</h2>
+ <p>
+    <h3> Fontend Web Developer from INDIA </h3>
+    <h3> I'm a passionate learner who's always willing to learn and work across technologies and domains.</h3>
 </p>
 
-</br>
-<h2 align="center"> :toolbox: &nbsp; Languages and Tools </h2>
+<!-- </br> -->
+<!-- <h2> :toolbox: &nbsp; Languages and Tools </h2> -->
 
-<h4 align="center"> :rocket: &nbsp; Languages </h4>
-<table align="center" >
-	<tr align="center">	
+<h4> :rocket: &nbsp; Languages </h4>
+<table >
+	<tr>	
 		<td >
 			<img src="./Assets/js.svg" width="35"/>
 		</td>
@@ -26,7 +26,7 @@
 			<img src="./Assets/css.svg" width="35"/>
 		</td>
   </tr>
-     <tr align="center" >
+     <tr>
      <td><sub>Javascript</sub></td>
      <td><sub>Typescript</sub></td>
      <td><sub>Java</sub></td>
@@ -35,9 +35,9 @@
   </tr>
 </table>
 
-<h4 width="100%" align="center">:small_airplane: &nbsp; Libraries & Framework</h4>
-<table align="center" >
-	<tr align="center">
+<h4 width="100%">:small_airplane: &nbsp; Libraries & Framework</h4>
+<table>
+	<tr>
 		<td >
 			<img src="./Assets/react.svg" width="35"/>
 		</td>
@@ -57,7 +57,7 @@
 			<img src="./Assets/git.svg" width="35"/>
 		</td>
   </tr>
-     <tr align="center" >
+     <tr>
          <td><sub>React</sub></td>
          <td><sub>Redux</sub></td>
          <td><sub>Tailwind</sub></td>
@@ -67,9 +67,9 @@
      </tr>
 </table>
 
-<h4 width="100%" align="center">:seat: &nbsp; Tools & Platform</h4>
-<table align="center" >
-	<tr align="center">
+<h4 width="100%">:seat: &nbsp; Tools & Platform</h4>
+<table>
+	<tr>
 		<td>
 			<img src="./Assets/vscode.svg" width="35"/>
 		</td>
@@ -87,7 +87,7 @@
 		</td>
 		
   </tr>
-     <tr align="center" >
+     <tr>
 	 <td><sub>VS Code</sub></td>
          <td><sub>Git</sub></td>
 	 <td><sub>Github</sub></td>
@@ -96,7 +96,7 @@
      </tr>
 </table>
 
-<br/>
+<!-- <br/> -->
 
 <!--  <h2 align="center">🔥  Github Stats</h2> -->
 <!--  <a href="https://github.com/im-shubhamsharma"><img width="48%" src="http://github-readme-stats.vercel.app/api?username=im-shubhamsharma&layout=compact&theme=radical&title_color=ff3068"></a>  &nbsp; &nbsp; -->
@@ -107,9 +107,10 @@
 	<a href="https://github.com/im-shubhamsharma"><img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shubhamsharma&layout=compact&theme=radical&title_color=ff3068" /></a>
 </p> -->
 
-<br/>
-<h2 align="center">📫 &nbsp; How to reach me:</h2>
-<p align="center">
+<!-- <br/> -->
+<!-- <h2>📫 &nbsp; How to reach me:</h2> -->
+<h3>📫 &nbsp; How to reach me:</h3>
+<p>
 <a href="https://www.linkedin.com/in/im-shubhamsharma"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:im.shubhamsharma002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 </p>
