@@ -53,9 +53,9 @@
 		<td>
 			<img src="./Assets/material.svg" width="32"/>
 		</td>
-  	        <td>
+<!--   	        <td>
 			<img src="./Assets/git.svg" width="35"/>
-		</td>
+		</td> -->
   </tr>
      <tr>
          <td><sub>React</sub></td>
@@ -63,7 +63,7 @@
          <td><sub>Tailwind</sub></td>
          <td><sub>Sass</sub></td>
          <td><sub>MUI</sub></td>
-         <td><sub>Git</sub></td>
+<!--          <td><sub>Git</sub></td> -->
      </tr>
 </table>
 
